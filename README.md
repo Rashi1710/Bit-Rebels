@@ -3,10 +3,8 @@ Natural Language Processing Spring 2023 Term Project **Asking Clarifying Questio
 
 
 ## Members:
-+ Ananya Parikh
-+ Neha Chowdhary
-+ Kumar Pranjal Tripathi
-+ Rashi Goyal
++ Ananya Parikh                       + Kumar Pranjal Tripathi
++ Neha Chowdhary                      + Rashi Goyal
 
 ## Objective
 Implementing Classification and Information Retrieval models better than base-case
