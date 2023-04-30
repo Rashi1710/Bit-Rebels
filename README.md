@@ -2,10 +2,10 @@
 Natural Language Processing Spring 2023 Term Project
 
 ## Members:
-Ananya Parikh
-Neha Chowdhary
-Kumar Pranjal Tripathi
-Rashi Goyal
++ Ananya Parikh
++ Neha Chowdhary
++ Kumar Pranjal Tripathi
++ Rashi Goyal
 
 ## Title
 Asking Clarifying Question Based on requirement
