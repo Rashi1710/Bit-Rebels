@@ -37,5 +37,5 @@ We used the following models for Information Retrieval task:
 ## Contribution to Project
 
 * **Retrieval Models**: Ananya Parikh (all)
-* **Classification Models**: Neha Chowdhary (BERT-base-uncased, DistilBERT, RoBERTa. LSTM, GLOVE) and Rashi Goyal (XLNet)
+* **Classification Models**: Neha Chowdhary (BERT-base-uncased, DistilBERT, RoBERTa, LSTM and GLOVE) and Rashi Goyal (XLNet)
 * **Report**: Kumar Pranjal Tripathi and Neha Chowdhary
