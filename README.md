@@ -33,3 +33,9 @@ We used the following models for Information Retrieval task:
 * BERT-Ranker, BERT-reranker and Bm25
 * ERNIE
 * ELECTRA
+
+## Contribution to Project
+
+* **Retrieval Models**: Ananya Parikh (all)
+* **Classification Models**: Neha Chowdhary (BERT-base-uncased, DistilBERT, RoBERTa. LSTM, GLOVE) and Rashi Goyal (XLNet)
+* **Report**: Kumar Pranjal Tripathi and Neha Chowdhary
